@@ -1,0 +1,20 @@
+title: danielmcm
+author: Daniel McMillan
+description: >
+  Software Engineer
+
+minima:
+  date_format: "%-d %B %Y"
+show_excerpts: true
+github_username:  danielmcmillan
+linkedin_username: daniel-mcmillan-770991152
+rss: rss
+
+#header_pages:
+# - about.md
+
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
